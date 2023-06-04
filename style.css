@@ -1,0 +1,26 @@
+.col-md-9 {
+    background-image: url("book.jpeg");
+    top: 4rem;
+    padding: 7rem;
+    /* padding-right: 80%; */
+}
+
+.wordInput {
+    margin-left: 2rem;
+}
+
+body {
+    background-image: url("library.jpeg");
+}
+
+li,
+ol {
+    padding-left: 3rem;
+}
+
+#paragraph,#source {
+    padding-left: 5rem;
+}
+h1{
+    color:blue;
+}
